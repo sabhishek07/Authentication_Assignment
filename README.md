@@ -13,15 +13,8 @@ Routes: Routes are organized in separate files for better readability and mainta
 Helper Functions:
 
 Helper folder contains functions for hashing and comparing passwords securely.
-.
-├── controllers          # Controller logic for registration, login, and profile management
-├── helpers              # Helper functions for password hashing and comparison
-├── middleware           # Middleware for JWT token verification
-├── models               # User model schema
-├── routes               # API routes for registration, login, and profile management
-├── .env                 # Environment variables (not included in repository)
-├── index.js             # Entry point for the application
-└── README.md            # Project README file
+![image](https://github.com/sabhishek07/Authentication_Assignment/assets/70909623/718ddca6-4ebb-43bb-85f8-b7452120f3b9)
+
 
 - Use API endpoints:
 
