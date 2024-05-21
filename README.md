@@ -13,7 +13,7 @@ Routes: Routes are organized in separate files for better readability and mainta
 Helper Functions:
 
 Helper folder contains functions for hashing and comparing passwords securely.
-![image](https://github.com/sabhishek07/Authentication_Assignment/assets/70909623/718ddca6-4ebb-43bb-85f8-b7452120f3b9)
+
 
 
 - Use API endpoints:
